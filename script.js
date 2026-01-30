@@ -19,4 +19,3 @@ ctx.lineCap = "round";
 ctx.stroke();
 
 //test
-//test
